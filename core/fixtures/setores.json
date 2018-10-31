@@ -1,0 +1,4 @@
+[
+    {"model": "core.setor", "pk": 1, "fields": {"nome": "CERIN"}},
+    {"model": "core.setor", "pk": 2, "fields": {"nome": "DITI"}}
+]
